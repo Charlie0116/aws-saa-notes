@@ -36,6 +36,9 @@ SAAで頻出の分野ごとに Markdown ファイルを分けています。
   - Lambda / API Gateway  
   - SQS / SNS / EventBridge など
 
+- `others.md`
+  - その他
+  
 必要に応じて今後ファイルを追加・分割します。
 
 ---
